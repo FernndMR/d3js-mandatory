@@ -3,7 +3,7 @@
 
 In this task we want to add to a map of Spain pinning as circle to show the cases of coronavirus in each region. The size of the circles depend on the number of cases, futhermore, we are going to add buttons to the chart to compare two dates and update our map.
 
-![map affected coronavirus](./content/MapaAnimado.png "affected coronavirus")
+![map affected coronavirus](./content/MapaAnimado.gif "affected coronavirus")
 
 To performance this our departure point will be the following repository of Lemoncode:
 
